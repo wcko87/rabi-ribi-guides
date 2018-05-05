@@ -1,5 +1,5 @@
 ---
-Title: Map Transition RCS Setups
+title: Map Transition RCS Setups
 ---
 
 # Beach Skip (Running Method)
