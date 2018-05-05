@@ -1,6 +1,6 @@
-# Map Transition RCS Setups
+Title: Map Transition RCS Setups
 
-## Beach Skip (Running Method)
+# Beach Skip (Running Method)
 
 **Step 1:**
 * Transition from beach to forest
@@ -34,7 +34,7 @@ Continue holding right all the way.
 
 
 
-## Generalized RCS Setup
+# Generalized RCS Setup
 This works for any RCS. Note that event trigger RCS only works in v1.65 and below. In later versions, only map transitions RCS works.
 
 ![rcs_setup](https://user-images.githubusercontent.com/27341392/39659090-52d424fe-5053-11e8-975d-dbab3a33c39d.png)
