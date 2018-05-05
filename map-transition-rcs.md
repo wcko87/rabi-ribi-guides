@@ -1,4 +1,6 @@
+---
 Title: Map Transition RCS Setups
+---
 
 # Beach Skip (Running Method)
 
@@ -32,7 +34,7 @@ Continue holding right all the way.
 **Why the recovery method works:**
 - The distance from where you spawn to the map transition point is approximately how far you need to walk to reach maximum speed. If you failed by turning around too early, it is likely that you did a full turnaround from maximum speed. To keep your subpixels, you'd need to mirror that action exactly. Walking all the way to the white flowers puts you at maximum walking speed, so turning around after that point gives a full turnaround at maximum speed, mirroring the previous action and keeping your subpixels.
 
-
+====================================
 
 # Generalized RCS Setup
 This works for any RCS. Note that event trigger RCS only works in v1.65 and below. In later versions, only map transitions RCS works.
