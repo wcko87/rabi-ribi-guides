@@ -1,6 +1,7 @@
 # Guides
 
 * [Pitfall Guide](pitfall_guide)
+* [RCS Setups](map-transition-rcs)
 
 # Tricks
 
