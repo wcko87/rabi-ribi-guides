@@ -1,6 +1,6 @@
-# Guide
+# Guides
 
-This is a guide.
+* [Pitfall Guide](pitfall_guide)
 
 # Tricks
 
