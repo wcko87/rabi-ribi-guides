@@ -4,8 +4,10 @@
 
 **Step 1:**
 * Transition from beach to forest
+
 **Step 2:**
 * Hold left
+
 **Step 3:**
 Switch from holding left to holding right at this exact frame (image).
 Do not leave any frames in between where you aren't holding any directional key.
