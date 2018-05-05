@@ -27,6 +27,7 @@ Method 1: Recommended
 
 Method 2: Not recommended.
 * This is extremely tight, not feasible RTA imo.
+
 <img class='gfyitem' data-id='InbornAdmirableAsiaticmouflon'/>
 
 Strat Comparison:
