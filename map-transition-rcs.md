@@ -82,5 +82,4 @@ You can chain the "right 2 left 1" etc. actions without leaving a frame in betwe
 (note that releasing hammer mid-sequence is fine)
 
 **Note:** If you are chaining, you have to drop the first input of each subsequent action (the input that usually does nothing)
-* so it becomes
-** 2R1L -> 1R1L -> 1R1L -> 2L1R when chained
+* So it becomes `2R1L -> 1R1L -> 1R1L -> 2L1R` when chained.
