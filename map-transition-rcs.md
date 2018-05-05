@@ -11,9 +11,9 @@ Title: Map Transition RCS Setups
 * Hold left
 
 **Step 3:**
-Switch from holding left to holding right at this exact frame (image).
-Do not leave any frames in between where you aren't holding any directional key.
-Continue holding right all the way.
+* Switch from holding left to holding right at this exact frame (image).
+* Do not leave any frames in between where you aren't holding any directional key.
+* Continue holding right all the way.
 
 ![turning_point](https://user-images.githubusercontent.com/27341392/39659061-a41d458a-5052-11e8-8be1-df19f6c196fb.png)
 
