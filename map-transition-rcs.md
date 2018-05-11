@@ -45,6 +45,7 @@ This works for any RCS. Note that event trigger RCS only works in v1.65 and belo
 - Red Area: event trigger you want to RCS
 - Cyan Area: open space
 - Green Area: ground
+
 1 tile is 1 pixel. The numbers 1,2,3,4,5 represent how many pixels you are from the trigger
 
 ### Steps
