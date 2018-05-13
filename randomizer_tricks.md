@@ -309,7 +309,7 @@ no velocity cancel needed if you launch off the edge and turn around.
 
 ------
 
-## Ravine Upper Egg
+## Ravine Upper Attack Up
 #### Speedboost3 + Speedy + Airjump + Walljump2
 (Note: Speedboost3+Speedy can be replaced with slide. Do a slide jump instead)
 
