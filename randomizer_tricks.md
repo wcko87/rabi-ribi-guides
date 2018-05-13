@@ -6,6 +6,7 @@ This is simply a collection of gifs showcasing various tricks used in randomizer
 
 I call some of the jumps "pretty difficult" or "stupid" etc in my comments here, but this is not an indicator of the actual difficulty rating of the jump in randomizer. If you want to see the actual difficulty ratings, refer to the [Randomizer Constraints](https://github.com/wcko87/revised-rabi-ribi-randomizer/blob/master/README.md#checking-constraints).
 
+See [Platforming Tricks Tutorial](https://wcko87.github.io/rabi-ribi-maps/maps/platforming_tricks_tutorial/) for a more general explanation for randomizer tricks.
 
 ------
 
