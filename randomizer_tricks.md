@@ -1,20 +1,25 @@
 ---
-title: Randomizer Tricks Gif Collection
+title:Randomizer Tricks Gif Collection
 ---
-
 # Randomizer Tricks Gif Collection
 This is simply a collection of gifs showcasing various tricks used in randomizer. Not all methods are documented here, so the gifs here may not be the only ways to make the jump.
 
 I call some of the jumps "pretty difficult" or "stupid" etc in my comments here, but this is not an indicator of the actual difficulty rating of the jump in randomizer. If you want to see the actual difficulty ratings, refer to the [Randomizer Constraints](https://github.com/wcko87/revised-rabi-ribi-randomizer/blob/master/README.md#checking-constraints).
 
 
+------
+
 ## Pacifist Jump
 #### No Items
 <img class='gfyitem' data-id='AggravatingCreamyCicada'/>
 
+------
+
 ## Mana Wager
 #### Airdash3 + Amulet
 <img class='gfyitem' data-id='KindlyLeanAsianwaterbuffalo'/>
+
+------
 
 ## Forest Spring Gap
 #### Consumable + Bunny Whirl
@@ -22,11 +27,15 @@ stupid jump. you can't use an amulet for the velocity cancel as it would kill th
 
 <img class='gfyitem' data-id='HeartyEvergreenAbalone'/>
 
+------
+
 ## Mid Forest Climb
 #### Slide Only
 stupid trick. You need to do this really quickly, or the uprprc bunnies will jump down.
 
 <img class='gfyitem' data-id='ConcreteLightBarasingha'/>
+
+------
 
 ## Mid Forest Regen Up
 #### Bunny Whirl only
@@ -36,6 +45,8 @@ lure the uprprc bunnies from the room above. this trick is much much easier with
 
 
 
+
+------
 
 ## Night Forest Attack Up Hole
 #### Bunny Whirl (+amulet)
@@ -49,11 +60,15 @@ stupid trick. extremely tight.
 <img class='gfyitem' data-id='NauticalWiltedDegus'/>
 
 
+------
+
 ## Nature Orb Shaft
 
 #### Bunny Strike + Airdash3 + Walljump2 + Amulet
 
 <img class='gfyitem' data-id='FaithfulBlindCowrie'/>
+
+------
 
 ## Toxic Strike Jump
 (this refers to getting up the shaft above toxic strike, to bypass the prologue trigger in the room to the left)
@@ -79,11 +94,15 @@ pretty stupid jump. Not difficult if you have an amulet to do a whirl cancel and
 
 
 
+------
+
 ## Arm Strength
 #### Amulet/Food
 Speedboost3 and Speedy are not required for this jump, even though I have them in this gif. This jump can be quite difficult to pull off.
 
 <img class='gfyitem' data-id='HospitableFabulousCuckoo'/>
+
+------
 
 ## Cicini Mana Up
 #### Slippers only
@@ -96,6 +115,8 @@ extremely stupid jump. this is also a 4-tile corner reverse walljump. this is a 
 <img class='gfyitem' data-id='ShallowTinyBlacknorwegianelkhound'/>
 
 
+------
+
 ## Exiting Wall Jump
 #### Slide
 <img class='gfyitem' data-id='TenderDevotedGoat'/>
@@ -105,6 +126,8 @@ Stupid jump.
 
 <img class='gfyitem' data-id='SourBraveAmericanredsquirrel'/>
 
+
+------
 
 ## Spectral Cave Gap
 The easiest way to cross this gap is Airdash3 + Airjump. Basically jump, airdash, then airjump out of the airdash. Don't do a quickdrop airjump.
@@ -140,6 +163,8 @@ extremely stupid. took me an hour to do this once. much more doable if you have 
 <img class='gfyitem' data-id='DeadReasonableFirebelliedtoad'/>
 
 
+------
+
 ## Spike Barrier Gap
 #### Slide only
 <img class='gfyitem' data-id='HonestRemoteAurochs'/>
@@ -157,6 +182,8 @@ The tightest ever regular jump I have done in this game. This is extremely tight
 
 <img class='gfyitem' data-id='https://gfycat.com/RequiredCelebratedHoneyeater'/>
 
+
+------
 
 ## Upper Graveyard
 #### Slippers+Airdash, Airjump only
@@ -182,11 +209,15 @@ Stupid trick. Amulet probably not needed. Consumable also technically not needed
 
 <img class='gfyitem' data-id='LimitedAnnualLamb'/>
 
+------
+
 ## Upper Graveyard Egg
 #### Slippers + Speedboost3 + Speedy
 Actually an easy jump. All the extra actions are just to make the bunny look cute.
 
 <img class='gfyitem' data-id='BlankFavoriteEarthworm'/>
+
+------
 
 ## Upper Graveyard Mana Up
 #### Slippers + Bunny Strike
@@ -201,6 +232,8 @@ Requires a quickdrop jump. Very tight.
 <img class='gfyitem' data-id='PartialInexperiencedAmericanavocet'/>
 
 
+
+------
 
 ## Health Wager
 #### Airjump only
@@ -220,6 +253,8 @@ Just a shortcut.
 <img class='gfyitem' data-id='EarnestGlaringHackee'/>
 
 
+------
+
 ## Upper Sky Island
 #### Bunny Strike only
 <img class='gfyitem' data-id='PitifulLankyFairyfly'/>
@@ -229,11 +264,15 @@ Quickdrop airjump, reverse walljump (launch), hold right.
 
 <img class='gfyitem' data-id='BoringOrangeAustraliankestrel'/>
 
+------
+
 ## Uppser Sky Island (jumping up the pit)
 #### Slippers + Airjump
 
 <img class='gfyitem' data-id='DangerousSevereCicada'/>
 
+
+------
 
 ## Egg after Kotri1
 #### Slippers + Bunny Strike
@@ -245,6 +284,8 @@ slide bonks are difficult
 
 <img class='gfyitem' data-id='HarmfulMatureIndianpangolin'/>
 
+
+------
 
 ## Health Surge
 #### Airjump + Walljump2
@@ -259,6 +300,8 @@ stupid trick. extremely tight.
 
 <img class='gfyitem' data-id='IndolentHeavenlyHamadryad'/>
 
+------
+
 ## Sky Bridge Regen Up Ledge
 #### Slide only
 no velocity cancel needed if you launch off the edge and turn around.
@@ -266,11 +309,15 @@ no velocity cancel needed if you launch off the edge and turn around.
 <img class='gfyitem' data-id='DisgustingSpicyGalapagosmockingbird'/>
 
 
+------
+
 ## Ravine Upper Egg
 #### Speedboost3 + Speedy + Airjump + Walljump2
 (Note: Speedboost3+Speedy can be replaced with slide. Do a slide jump instead)
 
 <img class='gfyitem' data-id='WeeSourFlounder'/>
+
+------
 
 ## Ravine West Side Jump
 not really useful for anything. just a shortcut.
@@ -279,6 +326,8 @@ not really useful for anything. just a shortcut.
 A buffered wall launch is probably easier here.
 
 <img class='gfyitem' data-id='NastyGlisteningArachnid'/>
+
+------
 
 ## Icy Summit Mana Up
 #### Speedboost3
@@ -293,11 +342,15 @@ Stupid trick. Extremely tight without speedboost. Requires doing the walljump a 
 
 <img class='gfyitem' data-id='EqualZanyGrasshopper'/>
 
+------
+
 ## Reverse Nixie
 #### Bunny Strike + Airjump + Airdash + Amulet
 stupid trick. much easier if you have slippers instead of bunny strike + amulet.
 
 <img class='gfyitem' data-id='WellinformedLimitedLice'/>
+
+------
 
 ## Water Tower (aquarium)
 #### Waterorb + Slippers + Walljump2
@@ -313,6 +366,8 @@ stupid trick, requires wimpy launch
 #### Waterorb+Airjump+Slippers+Whirl
 <img class='gfyitem' data-id='DearOilyHoneycreeper'/>
 
+
+------
 
 ## Exiting Water Tower (aquarium)
 #### Waterorb + Airjump + Speedboost3 + Speedy
@@ -332,12 +387,16 @@ Speedy can be substituted with Speedboost2
 <img class='gfyitem' data-id='ShadyFittingAfricanfisheagle'/>
 
 
+------
+
 ## Palace Warp Jump
 #### No items
 Just a shortcut. This is really dumb if you don't have speedboost. With speedboost it's still pretty hard, but it's much more doable.
 
 <img class='gfyitem' data-id='HollowForthrightIguana'/>
 
+
+------
 
 ## Palace Dark Room Regen Up
 #### Slippers + (Speedboost / Speedy)
@@ -348,6 +407,8 @@ Slippers, with speedy:
 Slippers, without speedboost/speedy (stupidly hard):
 
 <img class='gfyitem' data-id='UnsteadyThoroughCrossbill'/>
+
+------
 
 ## Palace Highest Level Pit Climb (level 4 to level 5)
 
@@ -364,9 +425,13 @@ slide bonks are difficult
 
 
 
+------
+
 ## Riverbank Attack Up
 #### Piko Hammer
 <img class='gfyitem' data-id='AncientThirdChinchilla'/>
+
+------
 
 ## Riverbank Egg in Wall
 #### Slippers + Amulet, Walljump2 + 2 Amulets
@@ -380,11 +445,15 @@ not in constraints, as the background needs to be non-riverbank for the uprprc b
 <img class='gfyitem' data-id='HopefulDeepFishingcat'/>
 
 
+------
+
 ## Bunny Whirl
 #### Slide Zip
 exiting may be a problem.
 
 <img class='gfyitem' data-id='ImmaculateBraveAngora'/>
+
+------
 
 ## Riverbank Wall
 #### Slippers (damage boost)
@@ -392,11 +461,15 @@ damage boosts are stupid
 
 <img class='gfyitem' data-id='OrnateDishonestAegeancat'/>
 
+------
+
 ## Riverbank -> Evernight Zip
 2-tile zip. There is a setup for this. Stand 1 pixel behind the line between the 3rd and 4th tile away from the corner, slide, then do a 1-frame tap jump. Do not jump immediately.
 
 <img class='gfyitem' data-id='VengefulSerpentineAngelfish'/>
 
+
+------
 
 ## Riverbank Level1 to Level2 Pit Climb
 
@@ -406,6 +479,8 @@ three different methods. having slippers on when doing the walljump method can c
 <img class='gfyitem' data-id='GlossyMelodicHoki'/>
 
 
+------
+
 ## Evernight Pack Up from Below
 a little shortcut
 
@@ -414,6 +489,8 @@ You can do it with Airdash1 (instead of Airdash3) if you walljump off the right 
 
 <img class='gfyitem' data-id='UnhappyPowerlessGrub'/>
 
+
+------
 
 ## Evernight Warp Stone Ledge (right)
 
@@ -428,6 +505,8 @@ rng
 <img class='gfyitem' data-id='EntireSleepyCottonmouth'/>
 
 
+------
+
 ## Saya Egg
 #### Slippers + Airdash3
 <img class='gfyitem' data-id='WeirdAdventurousIbadanmalimbe'/>
@@ -440,9 +519,13 @@ No speedboost needed. Uses autosave to reset the airdash, and an airdash cancel.
 
 <img class='gfyitem' data-id='LazyPerfumedHoneyeater'/>
 
+------
+
 ## Attack Up After Saya
 #### Slide Zip
 <img class='gfyitem' data-id='CookedAdmiredIslandcanary'/>
+
+------
 
 ## Saya Climb
 #### Bunny Whirl + Amulet
@@ -450,6 +533,8 @@ second whirlbonk is very tight.
 
 <img class='gfyitem' data-id='LawfulPeriodicClumber'/>
 
+
+------
 
 ## Evernight Dark Room Mana Up
 (sliding powder is required to actually get the item)
@@ -466,6 +551,8 @@ stupid trick. very difficult spike barrier jump + amulet gliding.
 <img class='gfyitem' data-id='UnsteadyFelineAztecant'/>
 
 
+
+------
 
 ## Sliding Powder Exit
 #### Bunny Strike + Airjump + Speedy + Amulet
@@ -487,6 +574,8 @@ Probably not possible with speed2. Note that Speedy+Speedboost1 is equivalent to
 <img class='gfyitem' data-id='ConcernedDisguisedAustraliancattledog'/>
 
 
+------
+
 ## Town Egg
 #### Airjump + Saya Buff
 Only works when the item is an egg. Therefore this is not in the randomizer constraints.
@@ -495,6 +584,8 @@ Only works when the item is an egg. Therefore this is not in the randomizer cons
 
 
 
+------
+
 ## Volcanic Dogs Egg
 #### Speedboost3 + Speedy
 Stupid jump.
@@ -502,11 +593,15 @@ Stupid jump.
 <img class='gfyitem' data-id='UnawareUnlinedBee'/>
 
 
+------
+
 ## Chasm near volcanic warp
 Not really useful for anything other than despawning enemies.
 
 <img class='gfyitem' data-id='ImpeccableTartAplomadofalcon'/>
 
+
+------
 
 ## Sysint Health Up (Cyber Tower)
 #### Airjump only, Slippers+Airdash3
@@ -540,6 +635,8 @@ stupid trick. too many slide bonks and buffered launches
 <img class='gfyitem' data-id='GentleGoldenEyas'/>
 
 
+------
+
 ## Misc
 #### Airjump + Slippers Shortcuts
 The lab jumps need Walljump Level 2
@@ -547,6 +644,8 @@ The lab jumps need Walljump Level 2
 <img class='gfyitem' data-id='CharmingIllustriousAtlanticspadefish'/>
 
 
+
+------
 
 ## Misc - Wind Blessing Gap
 Randomizer doesn't include DLC areas.
@@ -561,6 +660,8 @@ really stupid trick. requires ground double airdash. but with this, you can forg
 
 <img class='gfyitem' data-id='BossyQuaintCalf'/>
 
+
+------
 
 ## Misc - Plurkwood in Reverse
 
