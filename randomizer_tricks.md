@@ -253,7 +253,7 @@ Just a shortcut.
 
 ------
 
-## Upper Sky Island
+## Upper Sky Island Town
 #### Bunny Strike only
 <img class='gfyitem' data-id='PitifulLankyFairyfly'/>
 
@@ -264,7 +264,7 @@ Quickdrop airjump, reverse walljump (launch), hold right.
 
 ------
 
-## Uppser Sky Island (jumping up the pit)
+## Upper Sky Island Town (jumping up the pit)
 #### Slippers + Airjump
 
 <img class='gfyitem' data-id='DangerousSevereCicada'/>
