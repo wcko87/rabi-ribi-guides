@@ -1,5 +1,5 @@
 ---
-title:Randomizer Tricks Gif Collection
+title: Randomizer Tricks Gif Collection
 ---
 # Randomizer Tricks Gif Collection
 This is simply a collection of gifs showcasing various tricks used in randomizer. Not all methods are documented here, so the gifs here may not be the only ways to make the jump.
