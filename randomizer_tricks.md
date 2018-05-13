@@ -181,7 +181,7 @@ Easiest spike barrier jump. Probably the easiest trick that involves a wimpy lau
 #### Slippers + Speedboost + Speedy
 The tightest ever regular jump I have done in this game. This is extremely tight.
 
-<img class='gfyitem' data-id='https://gfycat.com/RequiredCelebratedHoneyeater'/>
+<img class='gfyitem' data-id='RequiredCelebratedHoneyeater'/>
 
 
 ------
