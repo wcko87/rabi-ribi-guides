@@ -218,6 +218,11 @@ Actually an easy jump. All the extra actions are just to make the bunny look cut
 
 <img class='gfyitem' data-id='BlankFavoriteEarthworm'/>
 
+#### Slippers + Speedboost3
+Requires a quickdrop jump. Very tight.
+
+<img class='gfyitem' data-id='PartialInexperiencedAmericanavocet'/>
+
 ------
 
 ## Upper Graveyard Mana Up
@@ -225,14 +230,6 @@ Actually an easy jump. All the extra actions are just to make the bunny look cut
 the drop to the mana up ledge can be done with an amulet cancel if you have amulets.
 
 <img class='gfyitem' data-id='ExhaustedHatefulIberianchiffchaff'/>
-
-
-#### Slippers + Speedboost3
-Requires a quickdrop jump. Very tight.
-
-<img class='gfyitem' data-id='PartialInexperiencedAmericanavocet'/>
-
-
 
 ------
 
