@@ -4,6 +4,8 @@ title: Randomizer Tricks Gif Collection
 # Randomizer Tricks Gif Collection
 This is simply a collection of gifs showcasing various tricks used in randomizer. Not all methods are documented here, so the gifs here may not be the only ways to make the jump.
 
+Many of these tricks can be pretty advanced, and won't be required to solve randomizer seeds as long as you play with reasonable [difficulty settings](https://wcko87.github.io/rabiribi-randomizer/#difficulty-configuration-configtxt).
+
 I call some of the jumps "pretty difficult" or "stupid" etc in my comments here, but this is not an indicator of the actual difficulty rating of the jump in randomizer. If you want to see the actual difficulty ratings, refer to the [Randomizer Constraints](https://github.com/wcko87/revised-rabi-ribi-randomizer/blob/master/README.md#checking-constraints).
 
 See [Platforming Tricks Tutorial](https://wcko87.github.io/rabi-ribi-maps/maps/platforming_tricks_tutorial/) for a more general explanation for randomizer tricks.
