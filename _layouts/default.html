@@ -35,7 +35,8 @@
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
         <div class="download-bar">
-          <a href="{{ '/' | absolute_url }}">return to main page</a>
+          <a href="{{ '/' | absolute_url }}" class="code">return to main page</a> |
+          <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a>
         <!--
         <div class="inner">
           {% if site.show_downloads %}
