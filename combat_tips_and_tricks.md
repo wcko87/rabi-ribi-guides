@@ -9,7 +9,7 @@ title: Combat Tips and Tricks
 
 This is the damage done by a standard forward hammer combo.
 
-<img class='gfyitem' data-id='CoarseAmusingBigmouthbass'/>
+<img class='gfyitem' data-id='VainActiveJabiru'/>
 
 Basic idea: the 2nd and 3rd hammer hits do (much) more damage backwards. Turn around during your combos to do more damage.
 
