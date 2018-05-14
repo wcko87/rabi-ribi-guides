@@ -22,6 +22,15 @@ See [Platforming Tricks Tutorial](https://wcko87.github.io/rabi-ribi-maps/maps/p
 
 ------
 
+## Upper Forest Regen Up Ledge (from below)
+#### Bunny Whirl only
+<img class='gfyitem' data-id='DistinctClearcutFrog'/>
+
+#### Bunny Strike + Slippers + Airjump + Speedboost3 + Speedy
+<img class='gfyitem' data-id='IndolentFragrantHairstreakbutterfly'/>
+
+------
+
 ## Forest Spring Gap
 #### Consumable + Bunny Whirl
 stupid jump. you can't use an amulet for the velocity cancel as it would kill the bunny.
