@@ -551,7 +551,7 @@ second whirlbonk is very tight.
 #### Bunny Strike + Airdash, Slippers + Airdash
 <img class='gfyitem' data-id='HoarseAdeptAlligatorsnappingturtle'/>
 
-#### Bunny Strike + Airjump, Airdash + Airjump
+#### Bunny Strike + Airjump + Amulet, Airdash + Airjump
 <img class='gfyitem' data-id='VillainousPalatableCrownofthornsstarfish'/>
 
 #### lots of amulets
@@ -569,7 +569,7 @@ Speedy can be replaced with Speedboost2.
 
 <img class='gfyitem' data-id='FirstTallAsianporcupine'/>
 
-#### Bunny Strike + Airdash + Walljump2 + Amulet
+#### Bunny Strike + Amulet + Airdash + Walljump2
 
 <img class='gfyitem' data-id='ImpishPoorGoral'/>
 
@@ -605,6 +605,7 @@ Stupid jump.
 ------
 
 ## Chasm near volcanic warp
+#### Speedboost3 + Speedy
 Not really useful for anything other than despawning enemies.
 
 <img class='gfyitem' data-id='ImpeccableTartAplomadofalcon'/>
@@ -673,6 +674,7 @@ really stupid trick. requires ground double airdash. but with this, you can forg
 ------
 
 ## Misc - Plurkwood in Reverse
+Not really requried for randomizer.
 
 <img class='gfyitem' data-id='FatSoggyLcont'/>
 
