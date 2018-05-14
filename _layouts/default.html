@@ -29,15 +29,16 @@
 
   <div class="wrapper">
     <header>
-      <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
+      <!-- <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1> -->
+      <h1 class="title">Rabi-Ribi Guides</h1>
     </header>
     <div id="container">
-      <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
+      <!-- <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p> -->
+      <a href="{{ '/' | absolute_url }}">Return to Main Page</a>
       <div id="main" role="main">
         <div class="download-bar">
           <div class="inner">
-            <a href="{{ '/' | absolute_url }}">Return to Main Page</a> &nbsp;&nbsp;&nbsp;
-            <a href="{{ site.github.repository_url }}" class="code">View/Edit on GitHub</a>
+            <a href="{{ site.github.repository_url }}" class="code">View / Edit on GitHub</a>
           </div>
         <!--
         <div class="inner">
