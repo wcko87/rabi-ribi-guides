@@ -182,7 +182,7 @@ extremely stupid. took me an hour to do this once. much more doable if you have 
 <img class='gfyitem' data-id='HonestRemoteAurochs'/>
 
 #### Amulet/Food (no items)
-Easiest spike barrier jump. Probably the easiest trick that involves a wimpy launch.
+Known as the spike barrier jump. Probably the easiest trick that involves a wimpy launch.
 
 <img class='gfyitem' data-id='ImaginativeHollowIvorybilledwoodpecker'/>
 
