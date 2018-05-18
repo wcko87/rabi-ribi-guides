@@ -271,7 +271,7 @@ Just a shortcut.
 <img class='gfyitem' data-id='PitifulLankyFairyfly'/>
 
 #### Airdash3 only
-Quickdrop airjump, reverse walljump (launch), hold right.
+Quickdrop airdash, reverse walljump (launch), hold right.
 
 <img class='gfyitem' data-id='BoringOrangeAustraliankestrel'/>
 
