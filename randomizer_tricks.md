@@ -204,14 +204,16 @@ The tightest ever regular jump I have done in this game. This is extremely tight
 #### Airdash+Walljump
 <img class='gfyitem' data-id='PortlyCompleteHapuka'/>
 
-#### Bunny Whirl only
+#### Bunny Whirl + Amulet
 <img class='gfyitem' data-id='RealReliableGoldeneye'/>
 
-#### Bunny Strike + Amulet
-<img class='gfyitem' data-id='WetHideousCockatoo'/>
-
-#### Bunny Strike + Airdash
+#### Airdash + Bunny Strike + Amulet
+4-tile corner walljump
 <img class='gfyitem' data-id='UnhealthyUnsungEnglishsetter'/>
+
+#### Bunny Strike + Amulet
+Requires a slide bonk, which can be quite difficult. A setup is to run left from the screen transition, and do a quick slide jump the moment you pass by the vertical line separating the background layers.
+<img class='gfyitem' data-id='WetHideousCockatoo'/>
 
 #### Bunny Strike + Slippers
 <img class='gfyitem' data-id='RegularInexperiencedEkaltadeta'/>
