@@ -11,4 +11,4 @@
 
 Slide jump like a bunny.
 
-<img class='gfyitem' data-id='KindlyBabyishArcticfox'/>
+<div class="gfyitem" data-id="KindlyBabyishArcticfox"></div>
