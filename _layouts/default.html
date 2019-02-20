@@ -86,8 +86,20 @@
       $('.gfyitem').each(function(index) {
         var gifID = $(this).attr('data-id');
         var itemImg = $(this);
-        var videoString = '<div style="position:relative;padding-bottom:calc(100%/1.85)"><iframe src="https://www.gfycat.com/ifr/'+gifID+'?controls=0" frameborder="0" scrolling="no" width="100%" height="100%" style="position:absolute;top:0;left:0;" allowfullscreen></iframe></div>';
-        itemImg.replaceWith(videoString);
+        $.ajax({
+          url:url+gifID, type:"GET", dataType:"text",
+          success: function( textData ) {
+            var data = JSON.parse(textData);
+            var videoString = '<div id="'+gifID+'"><video style="width:100%;max-width:800px;height:auto;" loop="true" autoplay="true" muted><source src="'
+            +data.gfyItem.mobileUrl+
+            '" type="video/mp4" media="all and (max-width:480px)"><source src="'
+            +data.gfyItem.webmUrl+
+            '" type="video/webm"><source src="'
+            +data.gfyItem.mp4Url+
+            '" type="video/mp4"></video></div>';
+            itemImg.replaceWith(videoString);
+          }
+        });
       })
     })
   </script>
