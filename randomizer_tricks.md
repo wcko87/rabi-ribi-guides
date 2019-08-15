@@ -495,7 +495,7 @@ three different methods. having slippers on when doing the walljump method can c
 ## Evernight Pack Up from Below
 a little shortcut
 
-#### Bunny Strike + Slippers + Airdash + Amulet
+#### Bunny Strike + Airjump + Slippers + Airdash + Amulet
 You can do it with Airdash1 (instead of Airdash3) if you walljump off the right side instead.
 
 <img class='gfyitem' data-id='UnhappyPowerlessGrub'/>
